@@ -1,0 +1,14 @@
+{
+  "name": "swag-labs-automation",
+  "version": "1.0.0",
+  "description": "Repo for holding swag labs test automation code",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1"
+  },
+  "packageManager": "yarn@1.22.21+sha1.1959a18351b811cdeedbd484a8f86c3cc3bbaf72"
+}
